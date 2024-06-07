@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 42 SEOUL / gen 1.1
+  
 <!--
 **hyulim42/hyulim42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
